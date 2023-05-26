@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mashud Al Hasan
 
-![Banner](https://media.giphy.com/media/3o85xvQfJLXpXZhVgA/giphy.gif)
+![Banner](https://lottiefiles.com/132992-hello-world)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashudalhasan)
 [![Twitter](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/journeywithhasan)
