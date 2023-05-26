@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mashud Al Hasan]
+# Hi there! 👋 I'm Mashud Al Hasan
 
 ![Banner](https://media.giphy.com/media/3o85xvQfJLXpXZhVgA/giphy.gif)
 
