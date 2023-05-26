@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Mashud Al Hasan]
 
 ![Banner](https://media.giphy.com/media/3o85xvQfJLXpXZhVgA/giphy.gif)
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate MERN stack web developer with a f
 
 Here are some of the technologies and tools I work with:
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![JavaScript](https://icons8.com/icon/tGvHBPJaKqEd/javascript) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png) ![MongoDB](https://img.icons8.com/?size=512&id=8rKdRqZFLurS&format=png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![ExpressJS](https://img.icons8.com/?size=512&id=PZQVBAxaueDJ&format=png) ![JWT](https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![npm](https://img.icons8.com/?size=512&id=24895&format=png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png) ![MongoDB](https://img.icons8.com/?size=512&id=8rKdRqZFLurS&format=png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![ExpressJS](https://img.icons8.com/color/48/express-js.png) ![JWT](https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![npm](https://img.icons8.com/?size=512&id=24895&format=png)
 
 ## 💼 Projects
 
