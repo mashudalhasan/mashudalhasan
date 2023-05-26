@@ -2,8 +2,8 @@
 
 ![Banner](https://media.giphy.com/media/3o85xvQfJLXpXZhVgA/giphy.gif)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashudalhasan)
+[![Twitter](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/journeywithhasan)
 
 Welcome to my GitHub profile! I'm a passionate MERN stack web developer with a focus on creating elegant and scalable web applications. I love working with HTML, CSS, Bootstrap, Tailwind, JavaScript (ES6+), React, jQuery, MongoDB, Firebase, REST APIs, ExpressJS, JWT, Node, and more!
 
@@ -38,5 +38,5 @@ I'm open to new opportunities, collaborations, or just having a chat. Feel free 
 
 You can find me on various platforms. Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/mashudalhasan/)
+- [LinkedIn](https://www.linkedin.com/in/mashudalhasan)
 - [Facebook](https://www.facebook.com/journeywithhasan)
