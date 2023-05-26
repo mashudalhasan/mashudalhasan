@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate MERN stack web developer with a f
 
 Here are some of the technologies and tools I work with:
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png) ![MongoDB](https://img.icons8.com/?size=512&id=8rKdRqZFLurS&format=png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![ExpressJS](./assets/express-js-48.png) ![JWT](https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![npm](https://img.icons8.com/?size=512&id=24895&format=png)
+![HTML5](./assets/html-48.png) ![CSS3](./assets/css-48.png) ![Bootstrap](./assets/bootstrap-48.png) ![Tailwind CSS](./assets/tailwind-css-48.png) ![JavaScript](./assets/js-48.png) ![React](./assets/react-native-48.png) ![jQuery](./assets/jquery-48.png) ![MongoDB](./assets/mongodb-48.png) ![Firebase](./assets/firebase-48.png) ![ExpressJS](./assets/express-js-48.png) ![JWT](./assets/jwt-48.png) ![Node.js](./assets/nodejs-48.png) ![npm](./assets/npm-48.png)
 
 ## 💼 Projects
 
