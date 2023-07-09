@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Mashud Al Hasan
 
-![Banner](./assets/animation_500_li4x2img.gif)
+<p align="center">
+  <img src="./assets/animation_500_li4x2img.gif" alt="banner"/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashudalhasan)
 [![Twitter](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/journeywithhasan)
