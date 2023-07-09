@@ -17,8 +17,9 @@ Here are some of the technologies and tools I work with:
 
 Here are a few noteworthy projects I've worked on:
 
-- [Project 1](https://github.com/mashudalhasan/toy-land-client) - Toy Land
-- [Project 2](https://github.com/mashudalhasan/arabian-delights-client) - Arabian Delights
+- [Project 1](https://github.com/mashudalhasan/the-language-space-client) - The Language Space
+- [Project 2](https://github.com/mashudalhasan/toy-land-client) - Toy Land
+- [Project 3](https://github.com/mashudalhasan/arabian-delights-client) - Arabian Delights
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/mashudalhasan).
 
